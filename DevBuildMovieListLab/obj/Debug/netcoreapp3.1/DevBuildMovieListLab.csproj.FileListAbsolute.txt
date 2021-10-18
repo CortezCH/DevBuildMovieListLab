@@ -1,0 +1,14 @@
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildMovieListLab\DevBuildMovieListLab\bin\Debug\netcoreapp3.1\DevBuildMovieListLab.exe
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildMovieListLab\DevBuildMovieListLab\bin\Debug\netcoreapp3.1\DevBuildMovieListLab.deps.json
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildMovieListLab\DevBuildMovieListLab\bin\Debug\netcoreapp3.1\DevBuildMovieListLab.runtimeconfig.json
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildMovieListLab\DevBuildMovieListLab\bin\Debug\netcoreapp3.1\DevBuildMovieListLab.runtimeconfig.dev.json
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildMovieListLab\DevBuildMovieListLab\bin\Debug\netcoreapp3.1\DevBuildMovieListLab.dll
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildMovieListLab\DevBuildMovieListLab\bin\Debug\netcoreapp3.1\DevBuildMovieListLab.pdb
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildMovieListLab\DevBuildMovieListLab\obj\Debug\netcoreapp3.1\DevBuildMovieListLab.csproj.AssemblyReference.cache
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildMovieListLab\DevBuildMovieListLab\obj\Debug\netcoreapp3.1\DevBuildMovieListLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildMovieListLab\DevBuildMovieListLab\obj\Debug\netcoreapp3.1\DevBuildMovieListLab.AssemblyInfoInputs.cache
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildMovieListLab\DevBuildMovieListLab\obj\Debug\netcoreapp3.1\DevBuildMovieListLab.AssemblyInfo.cs
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildMovieListLab\DevBuildMovieListLab\obj\Debug\netcoreapp3.1\DevBuildMovieListLab.csproj.CoreCompileInputs.cache
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildMovieListLab\DevBuildMovieListLab\obj\Debug\netcoreapp3.1\DevBuildMovieListLab.dll
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildMovieListLab\DevBuildMovieListLab\obj\Debug\netcoreapp3.1\DevBuildMovieListLab.pdb
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildMovieListLab\DevBuildMovieListLab\obj\Debug\netcoreapp3.1\DevBuildMovieListLab.genruntimeconfig.cache
